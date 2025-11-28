@@ -22,16 +22,24 @@ I’m a cybersecurity enthusiast specializing in Blue Team Operations, SOC Analy
 	•	Learning SIEM, Sysmon, Windows event logs, and firewall logs
 ---
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
+#### Tools
 
- •	Windows Event Viewer
+- Windows Event Viewer
+- Sysmon
+- Firewall Logs
+- Linux Logs
+- Suricata / Zeek
+- SIEM (Splunk – Wazuh)
 
-	•	Sysmon
-	•	Firewall Logs
-	•	Linux logs
-	•	Suricata أو Zeek (مستقبلاً)
-	•	SIEM ( Splunk )
+#### Languages
+- Python  
+- Bash
+
+#### Platforms
+- Linux  
+- Windows
 
 ---
 

@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Faisal 
 
 Welcome to my GitHub!  
+
 I’m a cybersecurity enthusiast specializing in Blue Team Operations, SOC Analysis, Digital Forensics, and Cyber Threat Hunting.
 ---
 
@@ -15,7 +16,7 @@ I’m a cybersecurity enthusiast specializing in Blue Team Operations, SOC Analy
 
 ## 🚀 Current Focus
 
-	•  Building expertise in log analysis, threat detection, and incident response
+	• Building expertise in log analysis, threat detection, and incident response
 	•	Creating real-world Blue Team labs and investigations
 	•	Developing reports, documentation, and SOC-style projects
 	•	Learning SIEM, Sysmon, Windows event logs, and firewall logs
@@ -23,7 +24,9 @@ I’m a cybersecurity enthusiast specializing in Blue Team Operations, SOC Analy
 
 ## 🛠️ Tools & Technologies
 
-| 	•	Windows Event Viewer
+
+ •	Windows Event Viewer
+
 	•	Sysmon
 	•	Firewall Logs
 	•	Linux logs

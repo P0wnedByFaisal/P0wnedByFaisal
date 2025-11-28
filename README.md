@@ -13,7 +13,7 @@ I’m a cybersecurity enthusiast specializing in Blue Team Operations, SOC Analy
 	•	Working on real-world Blue Team investigations and SOC-style projects
 	•	Always learning and sharing cybersecurity knowledge
 ---
-
+## 🚀 Current Focus
  •	Building hands-on experience in log analysis and threat detection
 	•	Investigating Windows event logs, Sysmon logs, and firewall logs
 	•	Developing SOC reports and security documentation

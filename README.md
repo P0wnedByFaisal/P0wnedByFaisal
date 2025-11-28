@@ -7,19 +7,19 @@ I’m a cybersecurity enthusiast specializing in Blue Team Operations, SOC Analy
 
 ## 💻 About Me
 
-	•	🎓 Information Systems student (Cybersecurity Track)
-	•	🔐 Passionate about threat detection and defensive security
-	•	🛠️ Skilled in Linux, Networking, Wireshark, Event Viewer, and Python scripting
-	•	🧪 Working on real-world Blue Team investigations and SOC-style projects
-	•	📘 Always learning and sharing cybersecurity knowledge
+	•	Information Systems student (Cybersecurity Track)
+	•	Passionate about threat detection and defensive security
+	•	Skilled in Linux, Networking, Wireshark, Event Viewer, and Python scripting
+	•	Working on real-world Blue Team investigations and SOC-style projects
+	•	Always learning and sharing cybersecurity knowledge
 ---
 
 ## 🚀 Current Focus
 
-	• Building expertise in log analysis, threat detection, and incident response
-	•	Creating real-world Blue Team labs and investigations
-	•	Developing reports, documentation, and SOC-style projects
-	•	Learning SIEM, Sysmon, Windows event logs, and firewall logs
+	•  Building expertise in log analysis, threat detection, and incident response
+	•	 Creating real-world Blue Team labs and investigations
+	•	 Developing reports, documentation, and SOC-style projects
+	•	 Learning SIEM, Sysmon, Windows event logs, and firewall logs
 ---
 
 ### 🛠️ Tools & Technologies
